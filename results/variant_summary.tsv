@@ -1,0 +1,18 @@
+field	value	comment
+Sample	NA12878	Sample column in VCF
+Assembly	GRCh38/hg38	SnpEff hg38 genome
+Chromosome	chr20	VCF CHROM
+Position	1118382	VCF POS (1-based)
+REF	A	VCF REF
+ALT	G	VCF ALT
+rsID	rs73071626	dbSNP link reviewed
+GT	0/1	Heterozygous
+AD	3,9	Reference,alternate read depths
+DP	12	Genotype read depth
+GQ	65	Genotype quality
+QUAL	298.64	Variant QUAL
+INFO_MQ	60	VCF INFO MQ
+FILTER	.	Not explicit PASS
+VCF_INFO_AF	0.5	Single-sample callset, not population frequency
+gnomAD_AF	0.003978	Approximately; as reviewed during analysis
+SpliceAI	0.00	gnomAD prediction shown during analysis

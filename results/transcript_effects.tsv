@@ -1,0 +1,7 @@
+source	gene	transcript	biotype	consequence	impact	hgvs
+SnpEff	LOC105372493	NR_136535.1	pseudogene	splice_donor_variant&intron_variant	HIGH	n.65+2T>C
+SnpEff	PSMF1	NM_178578.3	protein_coding	intron_variant	MODIFIER	c.-21-371A>G
+SnpEff	PSMF1	NM_001323407.2	protein_coding	intron_variant	MODIFIER	c.-136+4973A>G
+Ensembl	ENSG00000286787.4	ENST00000664648.2	lncRNA	splice-donor-associated transcript checked	NA	NA
+Ensembl	ENSG00000286787.4	ENST00000620712.4	lncRNA	splice-donor-associated transcript checked	NA	NA
+Ensembl	ENSG00000286787.4	ENST00000692211.2	lncRNA	splice-donor-associated transcript checked	NA	NA
