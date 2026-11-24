@@ -1,0 +1,20 @@
+# Do not commit sequencing data or large intermediate files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.crai
+*.bcf
+*.bcf.gz
+*.vcf
+*.vcf.gz
+*.fasta
+*.fa
+*.fai
+*.sam
+.DS_Store
+Thumbs.db
+~$*.docx
