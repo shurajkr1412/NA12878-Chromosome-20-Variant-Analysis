@@ -1,3 +1,0 @@
-# Single user-reviewed record from SnpEff-annotated VCF; full original VCF headers and complete dataset are not included.
-#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	NA12878
-chr20	1118382	.	A	G	298.64	.	AC=1;AF=0.5;AN=2;BaseQRankSum=1.645;DP=12;ExcessHet=0;FS=7.404;MLEAC=1;MLEAF=0.5;MQ=60;MQRankSum=0;QD=24.89;ReadPosRankSum=0.097;SOR=1.139;ANN=G|splice_donor_variant&intron_variant|HIGH|LOC105372493|LOC105372493|transcript|NR_136535.1|pseudogene|1/1|n.65+2T>C||||||,G|intron_variant|MODIFIER|PSMF1|PSMF1|transcript|NM_178578.3|protein_coding|1/7|c.-21-371A>G||||||,G|intron_variant|MODIFIER|PSMF1|PSMF1|transcript|NM_001323407.2|protein_coding|1/6|c.-136+4973A>G||||||	GT:AD:DP:GQ:PL	0/1:3,9:12:65:306,0,65
